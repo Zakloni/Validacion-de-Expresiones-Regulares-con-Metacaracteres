@@ -70,6 +70,7 @@ validate_button = tk.Button(root, text="Revisar validación", command = RevisarF
 validate_button.pack()
 validate_button.bind('<Return>', RevisarFrase)
 
-
 root.mainloop()
 
+//Edgar Joel Villela Castañeda
+//Kennby Brayan Gonzáles Domínguez
